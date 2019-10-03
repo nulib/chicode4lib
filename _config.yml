@@ -1,5 +1,5 @@
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://nulib.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/chicode4lib' # the subpath of your site, e.g. /blog
 title: 'Code4Lib Chicago, Fall 2019 Meeting'
 event_description: 'The Fall 2019 meeting for the Chicago chapter of Code4Lib.'
 keywords: 'code4lib, chicago, fall 2019, code4lib meeting'
