@@ -1,0 +1,29 @@
+url: '' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '' # the subpath of your site, e.g. /blog
+title: 'Code4Lib Chicago, Fall 2019 Meeting'
+event_description: 'The Fall 2019 meeting for the Chicago chapter of Code4Lib.'
+keywords: 'code4lib, chicago, fall 2019, code4lib meeting'
+
+
+############
+# HOME PAGE
+############
+
+# Hero image
+hero_large_url: 'https://live.staticflickr.com/2620/3751502079_43a6ea0983_h.jpg'
+hero_small_url: 'https://live.staticflickr.com/2620/3751502079_e6549c6e01.jpg'
+hero_img_source_url: https://www.flickr.com/photos/gabdurakhmanov/3751502079/
+hero_img_source_credit: 'Chicago Bean by Sergey Gabdurakhmanov, licensed CC BY 2.0'
+
+# Event Details
+event_date: November 14th, 2019
+
+menu:
+  - label: 'Registration'
+    link: ''
+  - label: 'Schedule'
+    link: ''
+  - label: 'Group Forum'
+    link: 'https://groups.google.com/forum/?hl=en#!forum/chicode4lib'
+  - label: 'Code4Lib Chicago Wiki'
+    link: 'https://wiki.code4lib.org/Code4Lib_Chicago#Fall_2019_Meeting'

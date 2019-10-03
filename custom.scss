@@ -1,0 +1,116 @@
+---
+# keep these lines so the jekyll includes this file in the build
+---
+
+.c4l-fonts {
+  font-family: "PT Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#eventDetails a {
+  color: #041C2C;
+}
+
+#eventDetails a:hover {
+  color: #041C2C;
+  text-decoration: underline;
+}
+
+#top-bar {
+  background-color: #041C2C;
+  border-color: #000;
+}
+
+#top-bar h1 {
+  font-size: 1.5rem;
+  font-family: "PT Serif",Georgia,"Times New Roman",Times,serif;
+  font-weight: bold;
+  color: #fff;
+}
+
+#top-bar a {
+  color: #fff;
+  font-weight: bold;
+  float: right;
+}
+
+.jumbotron {
+  color: white;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  @media only screen and (min-width: 600px) {
+    background-image: url("{{ site.hero_large_url }}");
+    height: 75vh;
+  }
+  @media only screen and (max-width: 600px) {
+    background-image: url("{{ site.hero_small_url }}");
+  }
+}
+
+section a {
+  color: #c83803
+}
+
+section a:hover {
+  color: #c83803;
+  text-decoration: underline;
+}
+
+#conferenceInfo {
+  font-size: 4.5em;
+}
+
+#conferenceInfo h2 {
+  color: #fff;
+  font-family: "PT Serif",Georgia,"Times New Roman",Times,serif;
+  font-weight: normal;
+  letter-spacing: .02em;
+  margin-bottom: 0;
+  margin-top: -1.2em;
+  padding: .2em;
+  text-shadow: 2px 2px 2px rgba(0,0,0,0.8);
+}
+
+#imageAttribution {
+  background-color: #041C2C;
+  font-size: 0.9em;
+  margin-bottom: 2rem;
+}
+
+#imageAttribution a {
+  color: #fff;
+  padding: 4rem 2rem;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #c83803 !important;
+  border-color: #c83803 !important;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #041C2C !important;
+  border-color: #041C2C !important;
+}
+
+.footer {
+  background-color: #041C2C;
+  box-sizing: border-box;
+  padding: 5em 0;
+  color: #fff;
+  left: 0;
+  right: 0;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+
+.footer a {
+  color: #fff;
+}
+
+.footer a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
