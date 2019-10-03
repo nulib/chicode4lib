@@ -20,9 +20,9 @@ event_date: November 14th, 2019
 
 menu:
   - label: 'Registration'
-    link: ''
+    link: 'https://www.eventbrite.com/e/chicode4lib-fall-2019-meeting-tickets-68271565089'
   - label: 'Schedule'
-    link: ''
+    link: 'https://docs.google.com/document/d/1Z1e-x9_uHRn0kdOgEaEiRSjTEBqUo9OWhQFhftOnrYc/edit?usp=sharing'
   - label: 'Group Forum'
     link: 'https://groups.google.com/forum/?hl=en#!forum/chicode4lib'
   - label: 'Code4Lib Chicago Wiki'
