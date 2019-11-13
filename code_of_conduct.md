@@ -1,6 +1,6 @@
 ---
 title: Chicago Code4Lib Code of Code of Conduct
-permalink: /coc/
+permalink: /code-of-conduct/
 layout: default
 ---
 CodeOfConduct4Lib
